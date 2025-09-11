@@ -33,8 +33,8 @@ I enjoy anything to do with technology, coding for myself and contributing to va
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [RISC-V: La arquitectura libre que está redefiniendo el futuro tecnológico](http://mrisco.accesus.com/2025/08/risc-v-la-arquitectura-libre-que-esta.html)
-- [Answer by MRiscoC for How to bypass error warning when opening binary files or files with unrecognised format?](https://stackoverflow.com/questions/79704198/how-to-bypass-error-warning-when-opening-binary-files-or-files-with-unrecognised/79704331#79704331)
-- [Answer by MRiscoC for How to properly use FuncFormatter&lpar;func&rpar;?](https://stackoverflow.com/questions/40511476/how-to-properly-use-funcformatterfunc/78289531#78289531)
 - [Una pequeña conversación con Gemini al propósito de su cambio de nombre](http://mrisco.accesus.com/2024/02/una-pequena-conversacion-con-gemini-al.html)
-- [Answer by MRiscoC for GNU strip to remove debug info in a .so &lpar;Android&rpar;](https://stackoverflow.com/questions/30264830/gnu-strip-to-remove-debug-info-in-a-so-android/76916168#76916168)
+- [Tiempos de Educación Digital](http://mrisco.accesus.com/2020/07/tiempos-de-educacion-digital.html)
+- [Fake News](http://mrisco.accesus.com/2019/03/fake-news.html)
+- [Una breve historia de suspenso con algunos consejos](http://mrisco.accesus.com/2018/08/una-breve-historia-de-suspenso-con.html)
 <!-- BLOG-POST-LIST:END -->
