@@ -25,7 +25,7 @@ I enjoy anything to do with technology, coding for myself and contributing to va
 - 📫 How to reach me: https://t.me/CodeAndCircuits or https://t.me/ender3v2s1firmware at Telegram
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mriscoc&title=-Reviews,-Issues,-Commits&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-eight-phi.vercel.app/?username=mriscoc&title=-Reviews,-Issues,-Commits&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Some of my interests:
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,azure,cs,cpp,flutter,git,linux,md,matlab,mysql,powershell,py,raspberrypi,sqlite,vscode,windows)](https://skillicons.dev)
